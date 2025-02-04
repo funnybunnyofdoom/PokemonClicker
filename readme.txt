@@ -1,1 +1,1 @@
-This is a Scratch project I'm working on with my 4 year old to teach them basic programming concepts and give them a first-hand look at what we can do with coding. 
+This is a Scratch project I'm working on with my 4 year old to teach them basic programming concepts and give them a first-hand look at what we can do with coding. Test.
